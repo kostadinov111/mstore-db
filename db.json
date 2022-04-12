@@ -4,19 +4,19 @@
       "id": 1,
       "name": "The Beatles",
       "formed": "1960",
-      "url": "https://res.cloudinary.com/user9913/image/upload/v1649802324/480px-The_Fabs_b1qnh5.jpg"
+      "imgUrl": "https://res.cloudinary.com/user9913/image/upload/v1649802324/480px-The_Fabs_b1qnh5.jpg"
     },
     {
       "id": 2,
       "name": "The Dave Brubeck Quartet",
       "formed": "1951",
-      "url": "https://res.cloudinary.com/user9913/image/upload/v1638717554/dq9cu0mo0j4marsov5ay.jpg"
+      "imgUrl": "https://res.cloudinary.com/user9913/image/upload/v1638717554/dq9cu0mo0j4marsov5ay.jpg"
     },
     {
       "id": 3,
       "name": "Beastie Boys",
       "formed": "1981",
-      "url": "https://res.cloudinary.com/user9913/image/upload/v1639430957/g6rkl1pehle3aeks5ns1.jpg"
+      "imgUrl": "https://res.cloudinary.com/user9913/image/upload/v1639430957/g6rkl1pehle3aeks5ns1.jpg"
     }
   ],
   "events": [
