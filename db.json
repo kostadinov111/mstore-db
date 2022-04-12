@@ -4,19 +4,22 @@
       "id": 1,
       "name": "The Beatles",
       "formed": "1960",
-      "imgUrl": "https://res.cloudinary.com/user9913/image/upload/v1649802324/480px-The_Fabs_b1qnh5.jpg"
+      "imgUrl": "https://res.cloudinary.com/user9913/image/upload/v1649802324/480px-The_Fabs_b1qnh5.jpg",
+      "desc": "The Beatles were an English rock band, formed in Liverpool in 1960, whose best-known line-up comprised John Lennon, Paul McCartney, George Harrison and Ringo Starr. They are regarded as the most influential band of all time and were integral to the development of 1960s counterculture and popular music's recognition as an art form. Rooted in skiffle, beat and 1950s rock and roll, their sound incorporated elements of classical music and traditional pop in innovative ways; the band later explored music styles ranging from ballads and Indian music to psychedelia and hard rock. As pioneers in recording, songwriting and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often publicised as leaders of the era's youth and sociocultural movements."
     },
     {
       "id": 2,
       "name": "The Dave Brubeck Quartet",
       "formed": "1951",
-      "imgUrl": "https://res.cloudinary.com/user9913/image/upload/v1638717554/dq9cu0mo0j4marsov5ay.jpg"
+      "imgUrl": "https://res.cloudinary.com/user9913/image/upload/v1638717554/dq9cu0mo0j4marsov5ay.jpg",
+      "desc": "David Warren Brubeck (December 6, 1920 – December 5, 2012) was an American jazz pianist and composer, considered one of the foremost exponents of cool jazz. Many of his compositions have become jazz standards including \"In Your Own Sweet Way\" and \"The Duke\". Brubeck's style ranged from refined to bombastic, reflecting both his mother's classical training and his own improvisational skills. His music is known for employing unusual time signatures as well as superimposing contrasting rhythms, meters, and tonalities. Brubeck experimented with time signatures throughout his career, recording \"Unsquare Dance\" in 7/4, \"World's Fair\" in 13/8, and \"Blue Rondo a la Turk\" in 9/8. He was also a composer of orchestral and sacred music and wrote soundtracks for television, such as Mr. Broadway and the animated miniseries This Is America, Charlie Brown. Often incorrectly attributed to Brubeck, the song \"Take Five\", which has become a jazz standard, was composed by Brubeck's long-time musical partner, alto saxophonist Paul Desmond. Appearing on one of the top-selling jazz albums, Time Out, and written in 5/4 time, \"Take Five\" has endured as a jazz classic associated with Brubeck."
     },
     {
       "id": 3,
       "name": "Beastie Boys",
       "formed": "1981",
-      "imgUrl": "https://res.cloudinary.com/user9913/image/upload/v1639430957/g6rkl1pehle3aeks5ns1.jpg"
+      "imgUrl": "https://res.cloudinary.com/user9913/image/upload/v1639430957/g6rkl1pehle3aeks5ns1.jpg",
+      "desc": "Beastie Boys were an American hip hop group from New York City, formed in 1981. The group was composed of Michael \"Mike D\" Diamond (vocals, drums), Adam \"MCA\" Yauch (vocals, bass), and Adam \"Ad-Rock\" Horovitz (vocals, guitar, programming). Beastie Boys were formed out of members of experimental hardcore punk band The Young Aborigines in 1978, with Diamond as vocalist, Jeremy Shatan on bass guitar, John Berry on guitar, and Kate Schellenbach on drums. When Shatan left in 1981, Yauch replaced him on bass and the band changed their name to Beastie Boys. Berry left shortly thereafter and was replaced by Horovitz. After achieving local success with the 1983 comedy hip hop single \"Cooky Puss,\" Beastie Boys made a full transition to hip hop, and Schellenbach left. They toured with Madonna in 1985 and a year later released their debut album, Licensed to Ill (1986), the first rap record to top the Billboard 200 chart. Their second album, Paul's Boutique (1989), composed almost entirely of samples, was a commercial failure, but later received critical acclaim. Check Your Head (1992) and Ill Communication (1994) found mainstream success, followed by Hello Nasty (1998), To the 5 Boroughs (2004), The Mix-Up (2007), and Hot Sauce Committee Part Two (2011). Beastie Boys have sold 20 million records in the United States and had seven platinum-selling albums from 1986 to 2004. They are the biggest-selling rap group since Billboard began recording sales in 1991. In 2012, they became the third rap group to be inducted into the Rock and Roll Hall of Fame. In the same year, Yauch died of cancer and Beastie Boys disbanded. Since then, the remaining two members have released several retrospective works, including a book and documentary film detailing the history of the group as well as a career-spanning compilation album. Diamond has produced acts including Portugal. The Man, while Horovitz has taken small acting roles and continues to play music."
     }
   ],
   "events": [
